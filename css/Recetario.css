@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.tituloprincipal{
+	color: #0652DD;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.celeste1{
+	color: #2d98da;
+	font-family: 'Poppins', sans-serif;
+}
+
+.celeste2{
+	color: #45aaf2 ;
+	font-family: 'Poppins', sans-serif;
+}
+
+.celeste3{
+	color: #4bcffa ;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+#contenedor{
+	width: 940px;
+	height: 600px;
+	background-color: #dff9fb;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#cabecera{
+	width: 940px;
+	height: 70px;
+	background-color:#f1f2f6;
+	text-align: center;
+}
+
+#menu{
+	width: 940px;
+	height: 50px;
+	background-color:#f1f2f6;
+	text-align: center;
+}
+
+
+#menu a{
+    text-decoration:none;
+    color:inherit;
+    font-size:14px;
+	
+    } 
+
+#menu li{
+    display:inline-block;
+    width:20%;
+    padding:5px 10px;
+    background-color: #54a0ff;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    }
+
+ #menu li:hover{
+    background-color:#fff;
+    color:#000;
+    }
+
+
+#contenido{
+	width: 940px;
+	height: 600px;
+	background-color:#f1f2f6;
+	text-align: center;
+}
